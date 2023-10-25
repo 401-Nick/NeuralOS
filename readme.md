@@ -56,10 +56,6 @@ This showcases the system's capability to understand and act upon embedded comma
 - Node.js
 - An API key for Google's PaLM API
 
-Certainly! Adding instructions for creating and populating a `.env` file is essential for the setup process. You can include this step in the "Installation" section of your GitHub README. Here's the updated "Installation" section:
-
----
-
 ## Installation
 
 1. **Clone the Repository**
